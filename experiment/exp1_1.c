@@ -1,4 +1,3 @@
-/*从键盘输入两个整数a和b，计算并输出他们的和sum、差diference、积product、商quotient和平均值ave（注意ave和商的定义类型）。*/
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 

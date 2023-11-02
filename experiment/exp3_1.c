@@ -1,4 +1,3 @@
-/*用循环语句（while、或for或do…while）计算求和问题：*/
 #include<stdio.h>
 #include<math.h>
 
